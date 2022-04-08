@@ -603,6 +603,7 @@
 		"ua"		"Укол здоров'я"
 		"es"		"Disparo de salud"
 		"ar"		"لقطة صحية"
+		
 	}
 	"HeavyArmor"
 	{
@@ -747,14 +748,24 @@
 		"es"		"MVP"
 		"ar"		"أفضل لاعب"
 	}
+    "NCrosshair"
+    {
+        "ru"        "Прицел носкопа"
+        "en"        "Noscope Crosshair"
+        "pt"        "Noscope Crosshair"
+        "fi"        "Nooscope Crosshair"
+        "ua"        "Приціл носкопа"
+        "es"        "Noscope Crosshair"
+        "ar"        "نوسكوب التقاطع"
+    }
     "NCrosshair_Menu"
     {
-        "ru"        "Цветной прицел носкопа"
-        "en"        "Color Noscope Crosshair"
-        "pt"        "Cor da Noscope Crosshair"
-        "fi"        "Väri Ei laajuutta Hiusristikko"
-        "ua"        "Колір без сфери діяльності Перехрестя"
-        "es"        "Color Noscope Crosshair"
+        "ru"        "Цвет носкопа"
+        "en"        "Color Noscope"
+        "pt"        "Cor da Noscope"
+        "fi"        "Värinäkymä"
+        "ua"        "Колір носка"
+        "es"        "Noscopio de Color"
         "ar"        "لون بدون نطاق تقاطع"
     }
 	"NoRecoil"
@@ -1733,7 +1744,16 @@
 		"ua"        "Покращений снайперський приціл"
 		"es"	    "Mira de francotirador avanzada"
 		"ar"	    "مشهد قناص متقدم"
-    }    
+    }
+	"XscopeSettings"
+    {
+		"ru"    	"Настройки прицела"
+		"en"    	"Scope settings"
+		"fi"        "Soveltamisalan asetukset"
+		"ua"        "Налаштування прицілу"
+		"es"	    "Configuración del alcance"
+		"ar"	    "إعدادات النطاق"
+    }
 	"AmmoWeapons"
     {
 		"ru"		"Расширенная обойма"
@@ -2127,5 +2147,75 @@
 		"ua"		"Імунітет від обмеження зброї"
 		"es"		"Inmunidad de restricción de armas"
 		"ar"		"حصانة تقييد السلاح"
+	}
+	"Stickers"
+	{
+		"ru" 		"Наклейки на оружия"
+		"en" 		"Weapons Stickers"
+		"pt"        "Autocolantes Para Armas"
+		"fi"        "Asetarrat"
+		"ua"        "Наклейки на зброю"
+		"es"        "Pegatinas de Armas"
+		"ar"	    "الأسلحة ملصقات"
+	}
+	"Healthshot_Pro"
+	{
+   	 	"ru"  		"Укол здоровья"
+   		"en"  		"Healthshot"
+		"pt"		"Healthshot"
+    	"fi"  		"Terveyden piikki"
+		"ua"		"Укол здоров'я"
+		"es"		"Disparo de salud"
+		"ar"		"لقطة صحية"
+	}
+	"Crosshair"
+	{
+        "ru"        "Прицел носкопа"
+        "en"        "Noscope Crosshair"
+        "pt"        "Noscope Crosshair"
+        "fi"        "Nooscope Crosshair"
+        "ua"        "Приціл носкопа"
+        "es"        "Noscope Crosshair"
+        "ar"        "نوسكوب التقاطع"
+	}
+	"Skybox"
+	{
+		"ru"		"Небо"
+		"en"		"Skybox"
+		"pt"		"SkyBox"		
+		"fi"		"Taivas"
+		"ua"		"Небо"
+		"es"		"Skybox"
+		"ar"		"سكايبوكس"
+	}
+	"VipOverlay"
+	{
+		"ru"		"Отключить оверлей"
+		"en"		"Disable overlay"
+		"pt"		"Desativar sobreposição"		
+		"fi"		"Poista päällys käytöstä"
+		"ua"		"Відключити оверлей"
+		"es"		"Deshabilitar superposición"
+		"ar"		"تعطيل التراكب"
+	}
+	"HBImmunity"
+	{
+		"ru"        "Иммунитет к сердцебиению"
+		"en"        "Immunity to palpitations"
+		"pt"		"Imunidade a palpitações"		
+		"fi"		"Immuniteetti sydämentykytykselle"
+		"ua"		"Імунітет до серцебиття"
+		"es"		"Inmunidad a las palpitaciones"
+		"ar"		"الحصانة للخفقان"
+	}
+	"auto_weapon_giver"
+	{
+		"ru"		"Автовыдача оружия"
+		"en"		"Auto weapongiver"
+		"pt"		"Emissão automática de armas"		
+		"fi"		"Automaattinen kysymys aseita"
+		"ua"		"Авто видача зброї"
+		"es"		"Auto emisión de armas"
+		"ar"		"قضية السيارات من الأسلحة"
 	}
 }
