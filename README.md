@@ -1,30 +1,36 @@
-# Translations
+# (VIP Core) Translations
 
-### RU
+## RU
 Это дополнение нужно для работы модулей для VIP Core / Без него ядро будет требовать файл перевода.
 
-Это облегчит Вам жизнь с поста [FAQ](https://hlmod.ru/posts/274178)
+Это облегчит Вам жизнь с поста **[FAQ](https://hlmod.ru/posts/274178)**
 
-Требования: Обязательно - [Ядро плагина - VIP Core - 2.1 и выше](https://hlmod.ru/resources/245/)
+## Требования
+- **[VIP Core - 2.1+](https://hlmod.ru/resources/245/)**;
 
-Команды: **sm_reload_translations** - Перезагрузка файла перевода.
+## Команды
+**`sm_reload_translations`** - Перезагрузка файла перевода;
 
-Установка: **[mod]** - корневая папка вашего сервера. Например **csgo**, **cstrike**, и **тп**
-Файл **vip_modules.pharases.txt** переместить в **/[mod]/addons/sourcemod/translations/**
+## Установка
+**[mod]** - корневая папка вашего сервера. Например **csgo**, **cstrike**, и **тп**
 
+Файл **vip_modules.pharases.txt** переместить в **`[mod]/addons/sourcemod/translations/`**
 
-
-### EN
+## EN
 This add-on is necessary for the VIP Core modules to work / Without it, the core will require a translation file.
 
-This will make your life easier from the post [FAQ](https://hlmod.ru/posts/274178 )
+This will make your life easier from the post **[FAQ](https://hlmod.ru/posts/274178)**
 
-Requirements: Required - [Plugin Core - VIP Core - 2.1 and higher](https://hlmod.ru/resources/245 /)
+## Requirements
+- **[VIP Core - 2.1+](https://hlmod.ru/resources/245/)**;
 
-Commands: **sm_reload_translations** - Reload the translation file.
+## Commands
+- **`sm_reload_translations`** - Reload the translation file;
 
-Installation: **[mod]** - the root folder of your server. For example **csgo**, **cstrike**, and **etc**
-File **vip_modules.pharases.txt ** move to **/[mod]/addons/sourcemod/translations/**
+## Installation
+- **[mod]** - The root folder of your server. For example **csgo**, **cstrike**, and **etc**.
 
-## Этот README.md будет редактироватся
-## This README.md will be edited
+File **vip_modules.pharases.txt** move to **`[mod]/addons/sourcemod/translations/`**
+
+### Этот README.md будет редактироватся
+### This README.md will be edited
