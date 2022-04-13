@@ -1100,6 +1100,36 @@
 		"es"		"Jugador de Patada"
 		"ar"		"لاعب ركلة"
 	}
+	"KillFeed_Title"
+    {
+        "ru"    	"Иконки убийства:\n "
+        "en"    	"Kill icons:\n "
+		"pt"		"Matar ícones:\n "
+		"fi"		"Tappakuvakkeet:\n "
+		"ua"		"Іконки вбивства:\n "
+		"es"		"Iconos de matar:\n "
+		"ar"		"قتل الرموز:\n "
+    }
+    "KillFeed"
+    {
+        "ru"        "Иконка убийства"
+        "en"        "Kill icons"
+		"pt"		"Matar ícones"
+		"fi"		"Tappakuvakkeet"
+		"ua"		"Іконки вбивства"
+		"es"		"Iconos de matar"
+		"ar"		"قتل الرموز"
+    }
+    "KillFeeds"
+    {
+        "ru"        "Настройка иконок"
+        "en"        "Icon customization"
+		"pt"		"Personalização do ícone"
+		"fi"		"Kuvakkeen muokkaus"
+		"ua"		"Налаштування іконок"
+		"es"		"Personalización de iconos"
+		"ar"		"رمز التخصيص"
+    }
 
 // L
 
