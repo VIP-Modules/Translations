@@ -12,9 +12,8 @@
 **`sm_reload_translations`** - Перезагрузка файла перевода;
 
 ## Установка
-**[mod]** - корневая папка вашего сервера. Например **csgo**, **cstrike**, и **тп**
-
-Файл **vip_modules.pharases.txt** переместить в **`[mod]/addons/sourcemod/translations/`**
+- **[mod]** - корневая папка вашего сервера; )***(Например **csgo**, **cstrike**, и **тп**)***
+- Файл **vip_modules.pharases.txt** переместить в **`[mod]/addons/sourcemod/translations/`**;
 
 ## EN
 This add-on is necessary for the VIP Core modules to work / Without it, the core will require a translation file.
@@ -28,9 +27,8 @@ This will make your life easier from the post **[FAQ](https://hlmod.ru/posts/274
 - **`sm_reload_translations`** - Reload the translation file;
 
 ## Installation
-- **[mod]** - The root folder of your server. For example **csgo**, **cstrike**, and **etc**.
-
-File **vip_modules.pharases.txt** move to **`[mod]/addons/sourcemod/translations/`**
+- **[mod]** - The root folder of your server; ***(For example **csgo**, **cstrike**, and **etc**.)***
+- File **vip_modules.pharases.txt** move to **`[mod]/addons/sourcemod/translations/`**;
 
 ### Этот README.md будет редактироватся
 ### This README.md will be edited
