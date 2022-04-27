@@ -15,6 +15,8 @@
 - **[mod]** - корневая папка вашего сервера; ***(Например **csgo**, **cstrike**, и **тп**)***
 - Файл **vip_modules.pharases.txt** переместить в **`[mod]/addons/sourcemod/translations/`**;
 
+---
+
 ## EN
 This add-on is necessary for the VIP Core modules to work / Without it, the core will require a translation file.
 
