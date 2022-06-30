@@ -185,7 +185,7 @@
 		"es"		"Mensaje avanzado"
 		"ar"	    "رسالة متقدمة"
 	}
-	"auto_weapon_giver"
+	"auto_weapon_giver" // https://hlmod.ru/resources/vip-avtovydacha-oruzhija-auto-weapon-giver.3698/
 	{
 		"ru"		"Автовыдача оружия"
 		"en"		"Auto weapongiver"
@@ -195,6 +195,26 @@
 		"es"		"Auto emisión de armas"
 		"ar"		"قضية السيارات من الأسلحة"
 	}
+	"AbilityKnives" // https://hlmod.ru/resources/vip-ability-knives.3117/
+    {
+        "ru"        "Ножи со способностями"
+        "en"        "Ability Knives"
+		"pt"		"Facas com habilidades"
+		"fi"		"Veitset, joilla on kykyjä"
+		"ua"		"Ножі зі здібностями"
+		"es"		"Cuchillos con habilidades"
+		"ar"		"السكاكين مع القدرات"
+    }
+	"Alert"
+    {
+		"ru"		"Центральный текст"
+		"en"		"Center text"
+		"pt"		"Texto Central"
+		"fi"		"Keskiteksti"
+		"ua"		"Центральний текст"
+		"es"		"Texto central"
+		"ar"		"نص المركز"
+    }
 
 // B
 
@@ -541,6 +561,16 @@
 		"es"		"Daño causado"
 		"ar"		"تسببت في الضرر"
 	}
+	"chat_wheel"
+	{
+		"ru"		"Колесо Чата"
+		"en"		"Chat Wheel"
+		"pt"    	"Roda de bate-papo"
+		"fi"    	"keskustelupyörä"
+		"ua"		"Колесо Чату"
+		"es"		"Rueda de chat"
+		"ar"		"عجلة الدردشة"
+	}
 
 // D
 
@@ -600,6 +630,16 @@
 		"ua"		"Розчинення тіла"
 		"es"		"Disolución del cuerpo"
 		"ar"		"انحلال الجسم"
+	}
+	"DamageBar"
+	{
+		"ru"		"Отображение урона"
+		"en"		"Damage display"
+		"pt"		"Exibição de danos"
+		"fi"		"Vaurionäyttö"
+		"ua"		"Відображення шкоди"
+		"es"		"Pantalla de daños"
+		"ar"		"عرض الضرر"
 	}
 
 // E
@@ -1371,6 +1411,16 @@
 		"es"		"No hay daño por caida"
 		"ar"		"لا ضرر السقوط"
 	}
+	"NoscopeCrosshair_Menu"
+    {
+        "ru"        "Цветной прицел носкопа"
+        "en"        "Color Noscope Crosshair"
+        "pt"        "Cor da Noscope Crosshair"
+        "fi"        "Väri Ei laajuutta Hiusristikko"
+        "ua"        "Колір без сфери діяльності Перехрестя"
+        "es"        "Color Noscope Crosshair"
+        "ar"        "لون بدون نطاق تقاطع"
+    }
 
 // O
 
