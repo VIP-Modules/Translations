@@ -15,19 +15,18 @@
 //////
 "Phrases"
 {
-
 // A
 
 	"AntiKnifeDamage"
-    {
-        "ru"        "Защита от урона ножом"
-        "en"        "Protection from knife damage"
-		"pt"        "Proteção contra danos com uma faca"
-		"fi"        "Suojaa veitsi vahinko"
-		"ua"        "Захист від шкоди ножем"
-		"es"        "Protección contra daños con cuchillo"
-		"ar"	    "الحماية من تلف السكين"
-    }
+	{
+		"ru"		"Защита от урона ножом"
+		"en"		"Protection from knife damage"
+		"pt"		"Proteção contra danos com uma faca"
+		"fi"		"Suojaa veitsi vahinko"
+		"ua"		"Захист від шкоди ножем"
+		"es"		"Protección contra daños con cuchillo"
+		"ar"		"الحماية من تلف السكين"
+	}
 	"AutoRespawn"
 	{
 		"ru"		"Авто возрождение"
@@ -68,35 +67,35 @@
 		"es"		"Compra automática"
 		"ar"		"شراء تلقائي"
 	}
-    "AutoBuyMenu"
-    {
-        "ru"    	"Настройка автозакупки"
-        "en"    	"Auto Buy Setting"
-		"pt"    	"Configurações do Auto Buy"
-        "fi"    	"Automaattisen ostoiden valikko"
-		"ua"    	"Налаштування автозакупівлі"
+	"AutoBuyMenu"
+	{
+		"ru"		"Настройка автозакупки"
+		"en"		"Auto Buy Setting"
+		"pt"		"Configurações do Auto Buy"
+		"fi"		"Automaattisen ostoiden valikko"
+		"ua"		"Налаштування автозакупівлі"
 		"es"		"Configuración de compra automática"
 		"ar"		"إعداد شراء السيارات"
-    }	
+	}
 	"AutoSilencer_usp"
 	{
-		"ru"    	"Авто глушитель на USP"
-		"en"    	"Auto Silencer for USP"
-		"pt"    	"Silenciador Automático USP"
-		"fi"    	"Automaatti äänenvaimennin USP varten"
+		"ru"		"Авто глушитель на USP"
+		"en"		"Auto Silencer for USP"
+		"pt"		"Silenciador Automático USP"
+		"fi"		"Automaatti äänenvaimennin USP varten"
 		"ua"		"Авто глушник на USP-S"
 		"es"		"Silenciador automático para USP"
-		"ar"	    "كاتم الصوت التلقائي لـ USP"
+		"ar"		"كاتم الصوت التلقائي لـ USP"
 	}
 	"AutoSilencer_m4a1"
 	{
-		"ru"    	"Авто глушитель на M4A1"
-		"en"    	"Auto Silencer for M4A1"
-		"pt"    	"Silenciador Automático M4A1" 
-		"fi"    	"Automaatti äänenvaimennin M4A1 varten"
+		"ru"		"Авто глушитель на M4A1"
+		"en"		"Auto Silencer for M4A1"
+		"pt"		"Silenciador Automático M4A1"
+		"fi"		"Automaatti äänenvaimennin M4A1 varten"
 		"ua"		"Авто глушник на M4A1-S"
 		"es"		"Silenciador automático para M4A1"
-		"ar"	    "كاتم الصوت التلقائي لـ M4A1"
+		"ar"		"كاتم الصوت التلقائي لـ M4A1"
 	}
 	"AntiFlash"
 	{
@@ -106,7 +105,7 @@
 		"fi"		"Anti-Flash"
 		"ua"		"Анти-Флеш"
 		"es"		"Anti-Flash"
-		"ar"	    "مضاد للفلاش"
+		"ar"		"مضاد للفلاش"
 	}
 	"Armor"
 	{
@@ -139,33 +138,33 @@
 		"ar"		"هالة اللون"
 	}
 	"AmmoWeapons"
-    {
+	{
 		"ru"		"Расширенная обойма"
 		"en"		"Extended Clip"
 		"fi"		"Laajennettu leike"
 		"ua"		"Розширена обойма"
 		"es"		"Clip extendido"
-		"ar"	    "كليب موسع"
-    }
+		"ar"		"كليب موسع"
+	}
 	"Agents"
 	{
-		"ru"        "Агенты"
-		"en"        "Agents"
-		"pt"        "Agentes"
-		"fi"        "Agentti"
-		"ua"        "Агенти"
-		"es"        "Agente"
-		"ar"	    "عملاء"
+		"ru"		"Агенты"
+		"en"		"Agents"
+		"pt"		"Agentes"
+		"fi"		"Agentti"
+		"ua"		"Агенти"
+		"es"		"Agente"
+		"ar"		"عملاء"
 	}
-    "AutoBandage"
-    {
-        "ru"   		"Авто бинтование"
-        "en"    	"Auto Bandage"
-        "fi"    	"Automaattinen Sidonta"
-        "ua"    	"Автоматичне бинтування"
-        "es"    	"Vendaje automático"
+	"AutoBandage"
+	{
+		"ru"		"Авто бинтование"
+		"en"		"Auto Bandage"
+		"fi"		"Automaattinen Sidonta"
+		"ua"		"Автоматичне бинтування"
+		"es"		"Vendaje automático"
 		"ar"		"الضمادة التلقائية"
-    }
+	}
 	"additional_menu" // https://hlmod.ru/resources/847/
 	{
 		"ru"		"Дополнительное VIP"
@@ -183,7 +182,7 @@
 		"fi"		"Lisäasetukset-viesti"
 		"ua"		"Розширені повідомлення"
 		"es"		"Mensaje avanzado"
-		"ar"	    "رسالة متقدمة"
+		"ar"		"رسالة متقدمة"
 	}
 	"auto_weapon_giver" // https://hlmod.ru/resources/vip-avtovydacha-oruzhija-auto-weapon-giver.3698/
 	{
@@ -218,55 +217,55 @@
 
 // B
 
-    "BuyTeamWeapon"
-    {
-        "ru"        "Покупка оружия команды"
-        "en"        "Buy Team Weapon"
-		"fi"        "Köp lagsvapen"
-		"ua"        "Купівля командої зброї"
+	"BuyTeamWeapon"
+	{
+		"ru"		"Покупка оружия команды"
+		"en"		"Buy Team Weapon"
+		"fi"		"Köp lagsvapen"
+		"ua"		"Купівля командої зброї"
 		"es"		"Comprar arma de equipo"
 		"ar"		"شراء سلاح الفريق"
-    }
-    "Bumpmine"
-    {
-        "ru"        "Толчковые мины"
-        "en"        "Bump Mine"
-		"pt"        "Bump Mine"
-		"fi"        "Bump Min"
-		"ua"        "Відштовхувальні міни"
+	}
+	"Bumpmine"
+	{
+		"ru"		"Толчковые мины"
+		"en"		"Bump Mine"
+		"pt"		"Bump Mine"
+		"fi"		"Bump Min"
+		"ua"		"Відштовхувальні міни"
 		"es"		"Golpear la mía"
 		"ar"		"عثرة الألغام"
-    }
+	}
 	"Ban"
 	{
-		"ru"        "Забанить игрока"
-		"en"        "Ban Player"
-		"pt"        "Banir Player"
-		"fi"        "Kieltää pelaaja"
-		"ua"        "Забанити гравця"
-		"es"        "Prohibir al jugador"
-		"ar"	    "حظر لاعب"
+		"ru"		"Забанить игрока"
+		"en"		"Ban Player"
+		"pt"		"Banir Player"
+		"fi"		"Kieltää pelaaja"
+		"ua"		"Забанити гравця"
+		"es"		"Prohibir al jugador"
+		"ar"		"حظر لاعب"
 	}
-    "Burning"
-    {
-        "ru"		"Горение"
-        "en"		"Burning"
+	"Burning"
+	{
+		"ru"		"Горение"
+		"en"		"Burning"
 		"pt"		"Burning"
 		"fi"		"Polttava"
 		"ua"		"Горіння"
 		"es"		"Ardiente"
 		"ar"		"احتراق"
-    }
+	}
 	"BHOP"
-    {
-        "ru"   	 	"Банихоп"
-        "ua"    	"Банніхоп"
-        "en"    	"BunnyHop"
-		"pt"    	"BunnyHop"
-        "fi"    	"BunnyHop"
+	{
+		"ru"		"Банихоп"
+		"ua"		"Банніхоп"
+		"en"		"BunnyHop"
+		"pt"		"BunnyHop"
+		"fi"		"BunnyHop"
 		"es"		"BunnyHop"
 		"ar"		"بانيهوب"
-    }
+	}
 	"Breachcharge"
 	{
 		"ru"		"Взрывчатка"
@@ -285,17 +284,17 @@
 		"ua"		"БанніХоп"
 		"es"		"BunnyHop"
 		"ar"		"باني هوب"
-	}    
+	}
 	"BHOP_TIME"
-    {
-        "#format"	"{1:f}"
-        "ru"        "Банихоп будет доступен через {1} секунд"
-        "ua"        "Банніхоп буде доступний через {1} секунд"
-        "en"        "BunnyHop will be available in {1} seconds"
-		"pt"        "BunnyHop estará disponível em {1} segundos"
-		"fi"        "Bunnyhop sera disponible dans {1} secondes"
-		"ar"        "سوف يكون Bunnyhop متاحًا في {1} ثواني"
-    }
+	{
+		"#format"	"{1:f}"
+		"ru"		"Банихоп будет доступен через {1} секунд"
+		"ua"		"Банніхоп буде доступний через {1} секунд"
+		"en"		"BunnyHop will be available in {1} seconds"
+		"pt"		"BunnyHop estará disponível em {1} segundos"
+		"fi"		"Bunnyhop sera disponible dans {1} secondes"
+		"ar"		"سوف يكون Bunnyhop متاحًا في {1} ثواني"
+	}
 	"BuyZona"
 	{
 		"ru"		"Зона закупки"
@@ -304,7 +303,7 @@
 		"fi"		"Hankinta-alue"
 		"ua"		"Зона закупівлі"
 		"es"		"Comprar Zona"
-		"ar"        "شراء المنطقة"
+		"ar"		"شراء المنطقة"
 	}
 	"BoostLadder"
 	{
@@ -316,58 +315,58 @@
 		"es"		"Escalera de refuerzo"
 		"ar"		"رفع السلم"
 	}
-    "bullet_effect"
-    {
-        "ru"    	"Эффект от выстрела"
-        "en"    	"Bullet Effect"
-		"fi"    	"Luodin vaikutus"
-		"ua"    	"Ефект від пострілу"
-		"es"   		"Efecto Bala"
+	"bullet_effect"
+	{
+		"ru"		"Эффект от выстрела"
+		"en"		"Bullet Effect"
+		"fi"		"Luodin vaikutus"
+		"ua"		"Ефект від пострілу"
+		"es"		"Efecto Bala"
 		"ar"		"تأثير رصاصة"
-    }
+	}
 
 // C
 
 	"ChatSound"
 	{
-		"ru" 		"Звук чата"
-		"en" 		"Chat message sound"
+		"ru"		"Звук чата"
+		"en"		"Chat message sound"
 		"pt"		"Som da mensagem do bate-papo"
 		"fi"		"Keskusteluviestin ääni"
 		"ua"		"Звук чату"
 		"es"		"Chat mensaje sonido"
 		"ar"		"رسالة الدردشة الصوتية"
 	}
-    "Chat"
-    {
-        "ru"		"Чат"
-        "en"		"Chat"
+	"Chat"
+	{
+		"ru"		"Чат"
+		"en"		"Chat"
 		"pt"		"Chat"
-        "fi"		"Chatti"
+		"fi"		"Chatti"
 		"ua"		"Чат"
 		"es"		"Charla"
 		"ar"		"دردشة"
-    }
+	}
 	"ClanCreate"
 	{
-		"ru"    	"Возможность создавать клан"
-		"en"    	"Clan create permission"
-		"pt"        "Clã criar permissão"
-		"fi"        "Klaanin luontioikeus"
-		"ua"        "Дозвіл на створення клану"
-		"es"        "Permiso para crear clan"
-		"ar"	    "عشيرة إنشاء إذن"
+		"ru"		"Возможность создавать клан"
+		"en"		"Clan create permission"
+		"pt"		"Clã criar permissão"
+		"fi"		"Klaanin luontioikeus"
+		"ua"		"Дозвіл на створення клану"
+		"es"		"Permiso para crear clan"
+		"ar"		"عشيرة إنشاء إذن"
 	}
-    "Chat_Menu"
-    {
-        "ru"		"Настройка чата"
-        "en"		"Chat Settings"
+	"Chat_Menu"
+	{
+		"ru"		"Настройка чата"
+		"en"		"Chat Settings"
 		"pt"		"Configurações do Chat"
 		"fi"		"Inställning av chatt"
 		"ua"		"Налаштування чату"
 		"es"		"Configuraciones de chat"
 		"ar"		"إعدادات المحادثة"
-    }
+	}
 	"CT_C4"
 	{
 		"ru"		"Бомба за КТ"
@@ -428,13 +427,13 @@
 	}
 	"credits_multiplier"
 	{
-		"ru"        "Множитель кредитов"
-		"en"        "Credits Multiplier"
-		"pt"        "Multiplicador De Créditos"
-		"fi"        "Luottokerroin"
-		"ua"        "Множник Кредитів"
-		"es"        "Multiplicador de Créditos"
-		"ar"	    "الاعتمادات مضاعف"
+		"ru"		"Множитель кредитов"
+		"en"		"Credits Multiplier"
+		"pt"		"Multiplicador De Créditos"
+		"fi"		"Luottokerroin"
+		"ua"		"Множник Кредитів"
+		"es"		"Multiplicador de Créditos"
+		"ar"		"الاعتمادات مضاعف"
 	}
 	"ColoredFlash"
 	{
@@ -458,10 +457,10 @@
 	}
 	"C4_Model"
 	{
-		"ru"  		"Измененная бомба"
-		"en"  		"C4 Model"
-		"pt"  		"Modelo de C4"
-		"fi"  		"Muunnettu Pommi"
+		"ru"		"Измененная бомба"
+		"en"		"C4 Model"
+		"pt"		"Modelo de C4"
+		"fi"		"Muunnettu Pommi"
 		"ua"		"Модель С4"
 		"es"		"Modelo C4"
 		"ar"		"نموذج C4"
@@ -478,42 +477,42 @@
 	}
 	"ccp_chat"
 	{
-		"ru"        "Функции чата"
-		"en"        "Chat Functions"
+		"ru"		"Функции чата"
+		"en"		"Chat Functions"
 		"pt"		"Funções de bate-papo"
 		"fi"		"Chat-toiminnot"
 		"ua"		"Функції чату"
 		"es"		"Chat-toiminnot"
 		"ar"		"وظائف الدردشة"
 	}
-    "CashBack"
-    {
-        "ru"        "Возврат денег"
-        "en"        "Cash Back"
-		"fi"        "Pengar tillbaka"
-		"ua"        "Повернення грошей"
+	"CashBack"
+	{
+		"ru"		"Возврат денег"
+		"en"		"Cash Back"
+		"fi"		"Pengar tillbaka"
+		"ua"		"Повернення грошей"
 		"es"		"Devolución de dinero"
 		"ar"		"كاش باك"
-    }
+	}
 	"ColoredSmoke"
 	{
-		"ru"        "Цветной дым"
-		"en"        "Colored Smoke"
-		"pt"        "Smoke Colorida"
-		"fi"        "Värillinen Savu"
-		"ua"        "Кольоровий дим"
-		"es"        "Humo de color"
-		"ar"	    "دخان ملون"
+		"ru"		"Цветной дым"
+		"en"		"Colored Smoke"
+		"pt"		"Smoke Colorida"
+		"fi"		"Värillinen Savu"
+		"ua"		"Кольоровий дим"
+		"es"		"Humo de color"
+		"ar"		"دخان ملون"
 	}
-    "color_management"
-    {
-        "ru"        "Управление цветами"
-        "en"        "Color Management"
-		"fi"        "Färghantering"
-		"ua"        "Керування кольорами"
-		"es"	    "Manejo del color"
+	"color_management"
+	{
+		"ru"		"Управление цветами"
+		"en"		"Color Management"
+		"fi"		"Färghantering"
+		"ua"		"Керування кольорами"
+		"es"		"Manejo del color"
 		"ar"		"إدارة الألوان"
-    }
+	}
 	"С4"
 	{
 		"ru"		"Бесплатная бомба"
@@ -543,20 +542,20 @@
 	}
 	"Crosshair"
 	{
-        "ru"        "Прицел носкопа"
-        "en"        "Noscope Crosshair"
-        "pt"        "Noscope Crosshair"
-        "fi"        "Nooscope Crosshair"
-        "ua"        "Приціл носкопа"
-        "es"        "Noscope Crosshair"
-        "ar"        "نوسكوب التقاطع"
+		"ru"		"Прицел носкопа"
+		"en"		"Noscope Crosshair"
+		"pt"		"Noscope Crosshair"
+		"fi"		"Nooscope Crosshair"
+		"ua"		"Приціл носкопа"
+		"es"		"Noscope Crosshair"
+		"ar"		"نوسكوب التقاطع"
 	}
 	"CAUSED_DAMAGE"
 	{
-		"ru"    	"Наносимый урон"
-		"en"    	"Caused Damage"
-		"pt"    	"Dano Causado"
-		"fi"    	"Aiheuttanut vahinkoa"
+		"ru"		"Наносимый урон"
+		"en"		"Caused Damage"
+		"pt"		"Dano Causado"
+		"fi"		"Aiheuttanut vahinkoa"
 		"ua"		"Завдана шкода"
 		"es"		"Daño causado"
 		"ar"		"تسببت في الضرر"
@@ -574,29 +573,29 @@
 
 // D
 
-    "DuckSpeed"
-    {
-	    "ru"    	"Отключить замедление скорости при приседании"
-        "en"    	"Disable slowdown when use duck"
-		"fi"    	"Poista hidastus käytöstä ankkaa käytettäessä"
-        "ua"    	"Відключити уповільнення швидкості під час присідання"
-		"es"    	"Desactiva la ralentización cuando usas pato"
+	"DuckSpeed"
+	{
+		"ru"		"Отключить замедление скорости при приседании"
+		"en"		"Disable slowdown when use duck"
+		"fi"		"Poista hidastus käytöstä ankkaa käytettäessä"
+		"ua"		"Відключити уповільнення швидкості під час присідання"
+		"es"		"Desactiva la ralentización cuando usas pato"
 		"ar"	"تعطيل التباطؤ عند استخدام البطة"
-    }
-    "Defuser"
-    {
-        "ru"        "Набор обезвреживания"
-        "en"        "Defuse Kit"
-		"en"        "Kit Defuse"
-        "fi"        "Defuse Kit"
-        "ua"        "Набір знешкодження"
-        "es"        "Defuse Kit"
+	}
+	"Defuser"
+	{
+		"ru"		"Набор обезвреживания"
+		"en"		"Defuse Kit"
+		"en"		"Kit Defuse"
+		"fi"		"Defuse Kit"
+		"ua"		"Набір знешкодження"
+		"es"		"Defuse Kit"
 		"ar"		"طقم نزع الفتيل"
-    }
+	}
 	"Disable"
 	{
-		"ru" 		"Выключить"
-		"en" 		"Disable"
+		"ru"		"Выключить"
+		"en"		"Disable"
 		"pt"		"Desabilitar"
 		"fi"		"Sammuta"
 		"ua"		"Вимкнути"
@@ -663,35 +662,35 @@
 		"ar"		"يتملص"
 	}
 	"ExoJumpBoots"
-    {
-       "ru"         "Exo Jump ботинки"
-       "en"         "Exo Jump Boots"
-	   "pt"         "Botas Exo Jump"
-	   "fi"	        "Exo Jump stövlar"
-	   "ua"		    "Exo Jump черевики"
-	   "es"		    "Botas Exo Jump"
-	   "ar"		    "القفز إكسو الروبوتات"
-    }
+	{
+	   "ru"			"Exo Jump ботинки"
+	   "en"			"Exo Jump Boots"
+	   "pt"			"Botas Exo Jump"
+	   "fi"			"Exo Jump stövlar"
+	   "ua"			"Exo Jump черевики"
+	   "es"			"Botas Exo Jump"
+	   "ar"			"القفز إكسو الروبوتات"
+	}
 	"Equipments"
-    {
-        "ru"        "Экипировка"
-        "en"        "Equipments"
-		"pt"        "Equipamentos"
-        "fi"        "Tamineet"
-		"ua" 		"Спорядження"
+	{
+		"ru"		"Экипировка"
+		"en"		"Equipments"
+		"pt"		"Equipamentos"
+		"fi"		"Tamineet"
+		"ua"		"Спорядження"
 		"es"		"Transparencia"
-		"ar"	    "المعدات"
-    }
-    "EquipmentsMenu"
-    {
-        "ru"        "Настройка экипировки"
-        "en"        "Equipment Setting"
-		"en"        "Configuração do Equipamento"
-        "fi"        "Laitteiden asettaminen"
-		"ua" 		"Налаштування екіпіровки"
+		"ar"		"المعدات"
+	}
+	"EquipmentsMenu"
+	{
+		"ru"		"Настройка экипировки"
+		"en"		"Equipment Setting"
+		"en"		"Configuração do Equipamento"
+		"fi"		"Laitteiden asettaminen"
+		"ua"		"Налаштування екіпіровки"
 		"es"		"Configuración del equipo"
-		"ar"	    "إعداد المعدات"
-    }
+		"ar"		"إعداد المعدات"
+	}
 	"Endurance"
 	{
 		"ru"		"Выносливость"
@@ -734,42 +733,42 @@
 
 	"FOV"
 	{
-		"ru" 		"Угол обзора"
-		"en" 		"Viewing Angle | FOV"
-		"pt"        "Ângulo de Visão | FOV"
-		"fi"        "Katselukulma"
-		"ua"        "Кут огляду"
-		"es"        "Ángulo de visión"
-		"ar"	    "زاوية عرض"
+		"ru"		"Угол обзора"
+		"en"		"Viewing Angle | FOV"
+		"pt"		"Ângulo de Visão | FOV"
+		"fi"		"Katselukulma"
+		"ua"		"Кут огляду"
+		"es"		"Ángulo de visión"
+		"ar"		"زاوية عرض"
 	}
 	"Fists"
 	{
-		"ru"        "Кулаки"
-		"en"        "Fists"
-		"pt"        "Punhos"
-		"fi"        "Nyrkki"
-		"ua"        "Кулаки"
-		"es"        "Puños"
-		"ar"	    "القبضات"
+		"ru"		"Кулаки"
+		"en"		"Fists"
+		"pt"		"Punhos"
+		"fi"		"Nyrkki"
+		"ua"		"Кулаки"
+		"es"		"Puños"
+		"ar"		"القبضات"
 	}
-    "FakeRanks"
-    {
-        "ru"        "Фейк Ранг:"
-        "en"        "Fake Ranks:"
-		"fi"        "Fake Ranks:"
-		"ua"        "Фейк Ранг:"
-		"es"	    "Fake Ranks:"
-		"ar"	    "الرتب الوهمية:"
-    }
-    "FakeRanks_Menu"
-    {
-        "ru"        "Меню Фейк-Ранга:"
-        "en"        "Fake Ranks Menu:"
-		"fi"        "Fake Ranks Menyn:"
-		"ua"        "Меню Фейк Рангу:"
-		"es"	    "Menú FakeRanks:"
-		"ar"	    "قائمة الرتب الوهمية:"
-    }
+	"FakeRanks"
+	{
+		"ru"		"Фейк Ранг:"
+		"en"		"Fake Ranks:"
+		"fi"		"Fake Ranks:"
+		"ua"		"Фейк Ранг:"
+		"es"		"Fake Ranks:"
+		"ar"		"الرتب الوهمية:"
+	}
+	"FakeRanks_Menu"
+	{
+		"ru"		"Меню Фейк-Ранга:"
+		"en"		"Fake Ranks Menu:"
+		"fi"		"Fake Ranks Menyn:"
+		"ua"		"Меню Фейк Рангу:"
+		"es"		"Menú FakeRanks:"
+		"ar"		"قائمة الرتب الوهمية:"
+	}
 	"Fzi_Rescued"
 	{
 		"#format"	"{1:N}"
@@ -830,30 +829,30 @@
 
 	"give_weapons"
 	{
-		"ru"        "Быстрая смена оружия"
-		"en"        "Quick change of weapons"
-		"pt"        "Troca rápida de armas"
-		"fi"        "Nopea aseiden vaihto"
-		"ua"        "Швидка зміна зброї"
-		"es"        "Cambio rápido de armas"
-		"ar"	    "تغيير سريع للأسلحة"
+		"ru"		"Быстрая смена оружия"
+		"en"		"Quick change of weapons"
+		"pt"		"Troca rápida de armas"
+		"fi"		"Nopea aseiden vaihto"
+		"ua"		"Швидка зміна зброї"
+		"es"		"Cambio rápido de armas"
+		"ar"		"تغيير سريع للأسلحة"
 	}
 	"Gloves"
 	{
-		"ru"    	"Перчатки"
-		"en"    	"Gloves"
-		"pt"    	"Luvas"
-		"fi"    	"Hanskat"
+		"ru"		"Перчатки"
+		"en"		"Gloves"
+		"pt"		"Luvas"
+		"fi"		"Hanskat"
 		"ua"		"Рукавички"
 		"es"		"Guantes"
 		"ar"		"قفاز"
 	}
 	"Gloves_MENU"
 	{
-		"ru"    	"Выбор перчаток"
-		"en"    	"Choose Gloves"
-		"pt"    	"Escolha Luvas"
-		"fi"    	"Hanskojen valikko"
+		"ru"		"Выбор перчаток"
+		"en"		"Choose Gloves"
+		"pt"		"Escolha Luvas"
+		"fi"		"Hanskojen valikko"
 		"ua"		"Вибір рукавичок"
 		"es"		"Elige guantes"
 		"ar"		"اختر القفازات"
@@ -889,10 +888,10 @@
 	}
 	"Grenades"
 	{
-		"ru"    	"Гранаты"
-		"en"    	"Grenades"
-		"pt"    	"Granadas"
-		"fi"    	"Kranaatit"
+		"ru"		"Гранаты"
+		"en"		"Grenades"
+		"pt"		"Granadas"
+		"fi"		"Kranaatit"
 		"ua"		"Гранати"
 		"es"		"Granadas"
 		"ar"		"قنبلة يدوية"
@@ -907,11 +906,11 @@
 		"ar"		"التماثيل الذهبية"
 	}
 	"GrenadeTrajectory"
-    {
-        "ru"        "Траектория Гранаты"
-        "en"        "Grenade Trajectory"
-		"pt"        "Trajetória de Granadas"
-    }
+	{
+		"ru"		"Траектория Гранаты"
+		"en"		"Grenade Trajectory"
+		"pt"		"Trajetória de Granadas"
+	}
 	"Gravity"
 	{
 		"ru"		"Гравитация"
@@ -925,57 +924,57 @@
 
 // H
 
-    "HALO"
-    {
-        "ru"        "Нимб"
-        "en"        "Halo"
-	    "fi"        "Halo"
-		"ua"        "Німб"
-		"es"	    "Aureola"
-		"ar"	    "هالو"
-    }
-    "HALO_M"
-    {
-        "ru"        "Цвет нимба"
-        "en"        "Color Halo"
-		"fi"        "Halo väri"
-		"ua"        "Колір німбу"
-		"es"	    "Aureola de color"
-		"ar"	    "هالة ملونة"
-    }
+	"HALO"
+	{
+		"ru"		"Нимб"
+		"en"		"Halo"
+		"fi"		"Halo"
+		"ua"		"Німб"
+		"es"		"Aureola"
+		"ar"		"هالو"
+	}
+	"HALO_M"
+	{
+		"ru"		"Цвет нимба"
+		"en"		"Color Halo"
+		"fi"		"Halo väri"
+		"ua"		"Колір німбу"
+		"es"		"Aureola de color"
+		"ar"		"هالة ملونة"
+	}
 	"HALO_BLACK"
-    {
-        "ru"        "Нимб Черный"
-        "en"        "Halo Black"
-	    "fi"        "Halo Musta"
-		"ua"        "Німб Чорний"
-		"es"	    "Aureola Svarti"
-		"ar"	    "هالو بلاك"
-    }
-    "HEADcredits"
-    {
-        "ru" 		"Кредиты за HS"
-        "en"        "Credits for HS"
-		"pt"        "Créditos por HS"
-        "fi"        "Hyvitykset HS: lle"
-		"ua" 		"Кредити за HS"
+	{
+		"ru"		"Нимб Черный"
+		"en"		"Halo Black"
+		"fi"		"Halo Musta"
+		"ua"		"Німб Чорний"
+		"es"		"Aureola Svarti"
+		"ar"		"هالو بلاك"
+	}
+	"HEADcredits"
+	{
+		"ru"		"Кредиты за HS"
+		"en"		"Credits for HS"
+		"pt"		"Créditos por HS"
+		"fi"		"Hyvitykset HS: lle"
+		"ua"		"Кредити за HS"
 		"es"		"Créditos para HS"
-		"ar"	    "قروض لضربة رأس"
-    } 
+		"ar"		"قروض لضربة رأس"
+	}
 	"HintShowDamage"
 	{
-		"ru" 		"Отображение урона"
-		"en" 		"Damage Display"
-		"fi" 		"Skada display"
-		"ua" 		"Відображення пошкоджень"
-		"es" 		"Pantalla de daños"
-		"ar"	    "عرض الضرر"
+		"ru"		"Отображение урона"
+		"en"		"Damage Display"
+		"fi"		"Skada display"
+		"ua"		"Відображення пошкоджень"
+		"es"		"Pantalla de daños"
+		"ar"		"عرض الضرر"
 	}
 	"HBImmunity"
 	{
-		"ru"        "Иммунитет к сердцебиению"
-		"en"        "Immunity to palpitations"
-		"pt"		"Imunidade a palpitações"		
+		"ru"		"Иммунитет к сердцебиению"
+		"en"		"Immunity to palpitations"
+		"pt"		"Imunidade a palpitações"
 		"fi"		"Immuniteetti sydämentykytykselle"
 		"ua"		"Імунітет до серцебиття"
 		"es"		"Inmunidad a las palpitaciones"
@@ -1008,7 +1007,7 @@
 		"ua"		"Укол здоров'я"
 		"es"		"Disparo de salud"
 		"ar"		"لقطة صحية"
-		
+
 	}
 	"HeavyArmor"
 	{
@@ -1031,46 +1030,46 @@
 
 // I
 
-    "Instruments"
-    {
-        "ru"        "Инструменты"
-        "en"        "Instruments"
-	    "fi"        "instrument"
-		"ua"        "Інструменти"
-		"es"	    "Instrumentos"
-		"ar"	    "الادوات"
-    }
+	"Instruments"
+	{
+		"ru"		"Инструменты"
+		"en"		"Instruments"
+		"fi"		"instrument"
+		"ua"		"Інструменти"
+		"es"		"Instrumentos"
+		"ar"		"الادوات"
+	}
 	"Invis"
 	{
-		"ru"    	"Прозрачность"
-		"en"    	"Invis"
-		"fi" 		"Läpikuultavuus"
-		"ua" 		"Прозорість"
+		"ru"		"Прозрачность"
+		"en"		"Invis"
+		"fi"		"Läpikuultavuus"
+		"ua"		"Прозорість"
 		"es"		"Transparencia"
-		"ar"	    "إينفيس"
+		"ar"		"إينفيس"
 	}
 	"Icon"
-    {
-        "ru"        "Иконка"
-        "en"        "Icon"
-		"pt"        "Ícone"
-        "fi"        "Ikoni"
-		"ua" 		"Іконка"
+	{
+		"ru"		"Иконка"
+		"en"		"Icon"
+		"pt"		"Ícone"
+		"fi"		"Ikoni"
+		"ua"		"Іконка"
 		"es"		"Icono"
-		"ar"	    "أيقونة"
-    }
+		"ar"		"أيقونة"
+	}
 
 // J
 
-    "jump_effect"
-    {
-        "en"    	"Jump Effect"
-        "ru"    	"Эффект от прыжков"
-	    "fi"    	"Hoppeffekt"
-		"ua"    	"Ефект від стрибків"
+	"jump_effect"
+	{
+		"en"		"Jump Effect"
+		"ru"		"Эффект от прыжков"
+		"fi"		"Hoppeffekt"
+		"ua"		"Ефект від стрибків"
 		"es"		"Efecto de salto"
 		"ar"		"تأثير القفز"
-    }
+	}
 	"JoinSound"
 	{
 		"ru"		"Музыка при входе"
@@ -1102,25 +1101,25 @@
 // K
 
 	"Killcredits"
-    {
-        "ru" 		"Кредиты за убийство"
-        "en"        "Credits for Kill"
-		"pt"        "Créditos por Kill"
-        "fi"        "Hyvitykset tappaa"
-		"ua" 		"Кредити за вбивство"
+	{
+		"ru"		"Кредиты за убийство"
+		"en"		"Credits for Kill"
+		"pt"		"Créditos por Kill"
+		"fi"		"Hyvitykset tappaa"
+		"ua"		"Кредити за вбивство"
 		"es"		"Créditos por matar"
-		"ar"	    "قروض للقتل"
-    } 
-    "KNIFEcredits"
-    {
-        "ru" 		"Кредиты за нож"
-        "en"        "Credits for Knife"
-		"pt"        "Créditos por Faca"
-        "fi"        "Laajuus veitsi"
-		"ua" 		"Кредити за ніж"
+		"ar"		"قروض للقتل"
+	}
+	"KNIFEcredits"
+	{
+		"ru"		"Кредиты за нож"
+		"en"		"Credits for Knife"
+		"pt"		"Créditos por Faca"
+		"fi"		"Laajuus veitsi"
+		"ua"		"Кредити за ніж"
 		"es"		"Créditos para el cuchillo"
-		"ar"	    "قروض للسكين"
-    }
+		"ar"		"قروض للسكين"
+	}
 	"KillScreen"
 	{
 		"ru"		"Эффект при убийстве"
@@ -1141,47 +1140,47 @@
 		"ar"		"لاعب ركلة"
 	}
 	"KillFeed_Title"
-    {
-        "ru"    	"Иконки убийства:\n "
-        "en"    	"Kill icons:\n "
+	{
+		"ru"		"Иконки убийства:\n "
+		"en"		"Kill icons:\n "
 		"pt"		"Matar ícones:\n "
 		"fi"		"Tappakuvakkeet:\n "
 		"ua"		"Іконки вбивства:\n "
 		"es"		"Iconos de matar:\n "
 		"ar"		"قتل الرموز:\n "
-    }
-    "KillFeed"
-    {
-        "ru"        "Иконка убийства"
-        "en"        "Kill icons"
+	}
+	"KillFeed"
+	{
+		"ru"		"Иконка убийства"
+		"en"		"Kill icons"
 		"pt"		"Matar ícones"
 		"fi"		"Tappakuvakkeet"
 		"ua"		"Іконки вбивства"
 		"es"		"Iconos de matar"
 		"ar"		"قتل الرموز"
-    }
-    "KillFeeds"
-    {
-        "ru"        "Настройка иконок"
-        "en"        "Icon customization"
+	}
+	"KillFeeds"
+	{
+		"ru"		"Настройка иконок"
+		"en"		"Icon customization"
 		"pt"		"Personalização do ícone"
 		"fi"		"Kuvakkeen muokkaus"
 		"ua"		"Налаштування іконок"
 		"es"		"Personalización de iconos"
 		"ar"		"رمز التخصيص"
-    }
+	}
 
 // L
 
 	"lr_select_fakerank"
 	{
-		"ru"        "Выбрать ранги"
-		"en"        "Select Ranks"
-		"pt"        "Selecionar Ranks"
-		"fi"        "Valitse rivit"
-		"ua"        "Вибрати ранги"
-		"es"        "Seleccionar rangos"
-		"ar"	    "اختر الرتب"
+		"ru"		"Выбрать ранги"
+		"en"		"Select Ranks"
+		"pt"		"Selecionar Ranks"
+		"fi"		"Valitse rivit"
+		"ua"		"Вибрати ранги"
+		"es"		"Seleccionar rangos"
+		"ar"		"اختر الرتب"
 	}
 	"Language"
 	{
@@ -1227,13 +1226,13 @@
 	}
 	"mu_GiveLoots"
 	{
-		"ru"        "Дополнительные улики"
-		"en"        "Additional Evidence"
-		"pt"        "Evidência Adicional"
-		"fi"        "Lisätodisteet"
-		"ua"        "Додаткові докази"
-		"es"        "Evidencia adicional"
-		"ar"	    "أدلة إضافية"
+		"ru"		"Дополнительные улики"
+		"en"		"Additional Evidence"
+		"pt"		"Evidência Adicional"
+		"fi"		"Lisätodisteet"
+		"ua"		"Додаткові докази"
+		"es"		"Evidencia adicional"
+		"ar"		"أدلة إضافية"
 	}
 	"Medkit"
 	{
@@ -1278,73 +1277,73 @@
 
 // N
 
-    "nade_wave_effect"
-    {
-        "en" 		"Nade Wave Effect"
-        "ru" 		"Волны от гранат"
-		"fi" 		"Nade våg effekt"
-		"ua" 		"Хвилі від гранат"
-		"es" 		"Efecto de onda Nade"
-		"ar" 		"تأثير موجة نادى"
-    }
-    "NVD"
-    {
-        "ru"        "ПНВ"
-        "en"        "NVD"
-        "fi"        "NVD"
-        "ua"        "ПНБ"
-		"es"	    "NVD"
-		"ar"	    "NVG"
-    }
+	"nade_wave_effect"
+	{
+		"en"		"Nade Wave Effect"
+		"ru"		"Волны от гранат"
+		"fi"		"Nade våg effekt"
+		"ua"		"Хвилі від гранат"
+		"es"		"Efecto de onda Nade"
+		"ar"		"تأثير موجة نادى"
+	}
+	"NVD"
+	{
+		"ru"		"ПНВ"
+		"en"		"NVD"
+		"fi"		"NVD"
+		"ua"		"ПНБ"
+		"es"		"NVD"
+		"ar"		"NVG"
+	}
 	"NadeModels"
-    {
-        "ru"        "Модели гранат"
-        "en"        "Grenade Models"
-		"pt"        "Modelos de Granada"
-        "fi"        "Kranaatti malli"
-		"ua" 		"Моделі гранат"
+	{
+		"ru"		"Модели гранат"
+		"en"		"Grenade Models"
+		"pt"		"Modelos de Granada"
+		"fi"		"Kranaatti malli"
+		"ua"		"Моделі гранат"
 		"es"		"Modelos granate"
-		"ar"	    "نماذج القنابل اليدوية"
-    }
-    "NadeModels_Menu"
-    {
-        "ru"        "Настройка моделей гранат"
-        "en"        "Grenade Models Settings"
-		"pt"        "Configuração dos Modelos de Granada"
-        "fi"        "Kranaatti mallin asetukset"
-		"ua" 		"Налаштування моделей гранат"
+		"ar"		"نماذج القنابل اليدوية"
+	}
+	"NadeModels_Menu"
+	{
+		"ru"		"Настройка моделей гранат"
+		"en"		"Grenade Models Settings"
+		"pt"		"Configuração dos Modelos de Granada"
+		"fi"		"Kranaatti mallin asetukset"
+		"ua"		"Налаштування моделей гранат"
 		"es"		"Configuración de modelos granadas"
-		"ar"	    "إعدادات نماذج القنبلة"
-    }    
+		"ar"		"إعدادات نماذج القنبلة"
+	}
 	"NoDamageVelocity"
-    {
-        "ru"        "Не терять скорость, когда в вас стреляют"
-        "en"        "Don't lose speed when you are being shot at"
-        "fi"        "Älä menetä nopeutta, kun olet ammuttu"
-		"ua" 		"Не втрачати швидкість, коли по вас стріляють"
+	{
+		"ru"		"Не терять скорость, когда в вас стреляют"
+		"en"		"Don't lose speed when you are being shot at"
+		"fi"		"Älä menetä nopeutta, kun olet ammuttu"
+		"ua"		"Не втрачати швидкість, коли по вас стріляють"
 		"es"		"No pierdas la velocidad cuando te disparan"
-		"ar"	    "لا تفقد السرعة عندما يتم إطلاق النار عليك"
-    }
-    "NCrosshair"
-    {
-        "ru"        "Прицел носкопа"
-        "en"        "Noscope Crosshair"
-        "pt"        "Noscope Crosshair"
-        "fi"        "Nooscope Crosshair"
-        "ua"        "Приціл носкопа"
-        "es"        "Noscope Crosshair"
-        "ar"        "نوسكوب التقاطع"
-    }
-    "NCrosshair_Menu"
-    {
-        "ru"        "Цвет носкопа"
-        "en"        "Color Noscope"
-        "pt"        "Cor da Noscope"
-        "fi"        "Värinäkymä"
-        "ua"        "Колір носка"
-        "es"        "Noscopio de Color"
-        "ar"        "لون بدون نطاق تقاطع"
-    }
+		"ar"		"لا تفقد السرعة عندما يتم إطلاق النار عليك"
+	}
+	"NCrosshair"
+	{
+		"ru"		"Прицел носкопа"
+		"en"		"Noscope Crosshair"
+		"pt"		"Noscope Crosshair"
+		"fi"		"Nooscope Crosshair"
+		"ua"		"Приціл носкопа"
+		"es"		"Noscope Crosshair"
+		"ar"		"نوسكوب التقاطع"
+	}
+	"NCrosshair_Menu"
+	{
+		"ru"		"Цвет носкопа"
+		"en"		"Color Noscope"
+		"pt"		"Cor da Noscope"
+		"fi"		"Värinäkymä"
+		"ua"		"Колір носка"
+		"es"		"Noscopio de Color"
+		"ar"		"لون بدون نطاق تقاطع"
+	}
 	"NoRecoil"
 	{
 		"ru"		"Стрельба без отдачи"
@@ -1436,38 +1435,38 @@
 
 // P
 
-    "Pets_Display"
-    {
-        "en"    	"Pets"
-        "ru"    	"Питомцы"
-        "fi"     	"Lemmikkieläimet"
-        "ua"     	"Вихованці"
-        "es"		"Mascotas"
-		"ar"	  	"الحيوانات الأليفة"
-    } 
-    "Pets_Title"
-    {
-        "en"      	"Choosing Pet"
-        "ru"    	"Выбор питомца"
-        "fi"     	"Lemmikin valitseminen"
-        "ua"      	"Вибір вихованця"
-        "es"	  	"Elegir una mascota"	
-		"ar"		"اختيار الحيوانات الأليفة"			
-    } 
-    "Pets_Disable"
-    {
-        "ru"      	"Выключить"
-		"en"        "Disable"
-        "fi"    	"Poista käytöstä"
-        "ua"     	"Вимкнути"
-        "es"	  	"Inhabilitar"	
-		"ar"	  	"تعطيل"
-    }
+	"Pets_Display"
+	{
+		"en"		"Pets"
+		"ru"		"Питомцы"
+		"fi"		"Lemmikkieläimet"
+		"ua"		"Вихованці"
+		"es"		"Mascotas"
+		"ar"		"الحيوانات الأليفة"
+	}
+	"Pets_Title"
+	{
+		"en"		"Choosing Pet"
+		"ru"		"Выбор питомца"
+		"fi"		"Lemmikin valitseminen"
+		"ua"		"Вибір вихованця"
+		"es"		"Elegir una mascota"
+		"ar"		"اختيار الحيوانات الأليفة"
+	}
+	"Pets_Disable"
+	{
+		"ru"		"Выключить"
+		"en"		"Disable"
+		"fi"		"Poista käytöstä"
+		"ua"		"Вимкнути"
+		"es"		"Inhabilitar"
+		"ar"		"تعطيل"
+	}
 	"paint"
 	{
 		"ru"		"Рисовалка"
 		"en"		"Paint"
-		"pt"		"Paint"	   
+		"pt"		"Paint"
 		"fi"		"Maalaus"
 		"ua"		"Малювалка"
 		"es"		"Pintar"
@@ -1477,7 +1476,7 @@
 	{
 		"ru"		"Настройка рисовалки"
 		"en"		"Paint Menu"
-		"pt"		"Paint Menu"		
+		"pt"		"Paint Menu"
 		"fi"		"Maalaus Menu"
 		"ua"		"Налаштування малювалки"
 		"es"		"Menú de pintura"
@@ -1558,24 +1557,24 @@
 // R
 
 	"Rainbow_Player"
-    {
-        "ru"        "Радужная модель"
-        "en"        "Rainbow Pattern"
-        "fi"        "Sateenkaarikuvio"
-        "ua"        "Райдужна модель"
-        "es"        "Padrão de arco-íris"
-		"ar"	    "نمط قوس قزح"
-    }    
+	{
+		"ru"		"Радужная модель"
+		"en"		"Rainbow Pattern"
+		"fi"		"Sateenkaarikuvio"
+		"ua"		"Райдужна модель"
+		"es"		"Padrão de arco-íris"
+		"ar"		"نمط قوس قزح"
+	}
 	"RoundEndBhop"
-    {
-        "ru"        "Банихоп в конце раунда"
-        "en"        "BunnyHop at the end of the round"
-		"pt"        "BunnyHop no final do round"
-		"fi"        "BunnyHop kierroksen lopussa"
-		"ua"        "Баніхоп у кінці раунду"
-		"es"	    "BunnyHop al final de la ronda"
-		"ar"	    "بانيهوب في نهاية الجولة"
-    }
+	{
+		"ru"		"Банихоп в конце раунда"
+		"en"		"BunnyHop at the end of the round"
+		"pt"		"BunnyHop no final do round"
+		"fi"		"BunnyHop kierroksen lopussa"
+		"ua"		"Баніхоп у кінці раунду"
+		"es"		"BunnyHop al final de la ronda"
+		"ar"		"بانيهوب في نهاية الجولة"
+	}
 	"resimm"
 	{
 		"ru"		"Иммунитет от ограничения оружия"
@@ -1583,26 +1582,26 @@
 		"fi"		"Gun limit immunity"
 		"ua"		"Імунітет від обмеження зброї"
 		"es"		"Inmunidad de restricción de armas"
-		"ar"	    "حصانة تقييد السلاح"
-	}	
+		"ar"		"حصانة تقييد السلاح"
+	}
 	"ReloadProgressBar"
-    {
-        "ru"        "Индикатор выполнения перезарядки"
-        "en"        "Reload Progress Bar"
-        "fi"        "Latauksen ilmaisin"
-		"ua" 		"Індикатор виконання перезарядки"
+	{
+		"ru"		"Индикатор выполнения перезарядки"
+		"en"		"Reload Progress Bar"
+		"fi"		"Latauksen ilmaisin"
+		"ua"		"Індикатор виконання перезарядки"
 		"es"		"Indicador de progreso de recarga"
-		"ar"	    "إعادة تحميل شريط التقدم"
-    }
+		"ar"		"إعادة تحميل شريط التقدم"
+	}
 	"ReWeapon"
-    {
-        "ru"    	"Восстановление боеприпасов"
-		"en"    	"Switch Weapon"
-		"fi"    	"Byt vapen"
-		"ua"    	"Відновлення боєприпасів"
+	{
+		"ru"		"Восстановление боеприпасов"
+		"en"		"Switch Weapon"
+		"fi"		"Byt vapen"
+		"ua"		"Відновлення боєприпасів"
 		"es"		"Cambiar de arma"
-		"ar"	"تبديل السلاح"
-    }
+		"ar"		"تبديل السلاح"
+	}
 	"RegenArmor"
 	{
 		"ru"		"Регенерация брони"
@@ -1662,6 +1661,7 @@
 	{
 		"ru"		"Настройка ранга"
 		"en"		"Rank Settings"
+		"pt"		"Configurações do Rank"
 		"fi"		"Rank Asetukset"
 		"ua"		"Налаштування рангу"
 		"es"		"Configuraciones de rango"
@@ -1669,9 +1669,9 @@
 	}
 	"RECEIVED_DAMAGE"
 	{
-		"ru"    	"Получаемый урон"
-		"en"    	"Received Damage"
-		"fi"    	"Aiheutuvat vahingot"
+		"ru"		"Получаемый урон"
+		"en"		"Received Damage"
+		"fi"		"Aiheutuvat vahingot"
 		"ua"		"Отримана шкода"
 		"es"		"Daño recibido"
 		"ar"		"تلقى الضرر"
@@ -1686,62 +1686,62 @@
 		"fi"		"Nopea aseiden vaihto"
 		"ua"		"Швидка зміна зброї"
 		"es"		"Cambio rápido de armas"
-		"ar"	    "تغيير سريع للأسلحة"
+		"ar"		"تغيير سريع للأسلحة"
 	}
 	"Setclass"
 	{
-		"ru" 		"Смена Классов"
-		"en" 		"Set Class"
-		"pt"        "Definir Classe"
-		"fi"        "Luokanvaihto"
-		"ua"        "Зміна КЛАСІВ"
-		"es"        "Cambio De Clases"
-		"ar"	    "تغيير الفصول"
+		"ru"		"Смена Классов"
+		"en"		"Set Class"
+		"pt"		"Definir Classe"
+		"fi"		"Luokanvaihto"
+		"ua"		"Зміна КЛАСІВ"
+		"es"		"Cambio De Clases"
+		"ar"		"تغيير الفصول"
 	}
 	"sprays"
-    {
-        "ru"        "Спрей"
-        "en"        "Sprays"
-		"pt"        "Sprays"
-		"fi"        "Sprays"
-		"ua"        "Спрей"
-		"es"        "Sprays"
-		"ar"	    "رذاذ"
-    }
+	{
+		"ru"		"Спрей"
+		"en"		"Sprays"
+		"pt"		"Sprays"
+		"fi"		"Sprays"
+		"ua"		"Спрей"
+		"es"		"Sprays"
+		"ar"		"رذاذ"
+	}
 	"sprays_menu"
-    {
-        "ru"        "Выбор спрея"
-        "en"        "Spray Selection"
-		"pt"        "Escolha um Spray"
-		"fi"        "Spray valinta"
-		"ua"        "Вибір спрею"
-		"es"        "Selección de Spray"
-		"ar"	    "رذاذ اختيار"
-    }
-    "Shield"
-    {
-        "ru"        "Щит"
-        "en"        "Shield"
-		"fi"        "Skydda"
-		"ua"        "Щит"
-		"es"	    "Proteger"
-		"ar"	    "درع"
-    }
+	{
+		"ru"		"Выбор спрея"
+		"en"		"Spray Selection"
+		"pt"		"Escolha um Spray"
+		"fi"		"Spray valinta"
+		"ua"		"Вибір спрею"
+		"es"		"Selección de Spray"
+		"ar"		"رذاذ اختيار"
+	}
+	"Shield"
+	{
+		"ru"		"Щит"
+		"en"		"Shield"
+		"fi"		"Skydda"
+		"ua"		"Щит"
+		"es"		"Proteger"
+		"ar"		"درع"
+	}
 	"SmokeColor"
 	{
-		"ru"        "Указать цвет"
-		"en"        "Select Color"
-		"pt"        "Selecione a Cor"
-		"fi"        "Valitse väri"
-		"ua"        "Вказати колір"
-		"es"        "Seleccionar color"
-		"ar"	    "إختر لون"
+		"ru"		"Указать цвет"
+		"en"		"Select Color"
+		"pt"		"Selecione a Cor"
+		"fi"		"Valitse väri"
+		"ua"		"Вказати колір"
+		"es"		"Seleccionar color"
+		"ar"		"إختر لون"
 	}
 	"skybox"
 	{
 		"ru"		"Небо"
 		"en"		"Skybox"
-		"pt"		"SkyBox"		
+		"pt"		"SkyBox"
 		"fi"		"Taivas"
 		"ua"		"Небо"
 		"es"		"Skybox"
@@ -1755,32 +1755,34 @@
 	}
 	"SmokeColors"
 	{
-		"ru"    	"Цвет дыма"
-		"en"    	"Smoke Color"
-		"pt"    	"Cor da Smoke"
-		"fi"    	"Savun väri"
+		"ru"		"Цвет дыма"
+		"en"		"Smoke Color"
+		"pt"		"Cor da Smoke"
+		"fi"		"Savun väri"
 		"ua"		"Колір диму"
 		"es"		"Color de humo"
 		"ar"		"لون الدخان"
 	}
 	"SWGM_VIP_Give"
 	{
-        "ru"		"Вы получили VIP за вступление в нашу Steam группу."
-        "en"		"You got VIP because you join our Steam group."
+		"ru"		"Вы получили VIP за вступление в нашу Steam группу."
+		"en"		"You received VIP because you joined our Steam Group."
+		"pt"		"Você ganhou VIP porque se juntou ao nosso Grupo Steam."
 		"fi"		"Sait VIP-jäsenen Steam-ryhmään liittymisestä."
 		"ua"		"Ви отримали VIP за приєднання до нашої групи Steam."
 		"es"		"Tienes VIP porque te unes a nuestro grupo Steam."
 		"ar"		"لقد حصلت على VIP لأنك انضممت إلى مجموعة Steam الخاصة بنا."
-    }
-    "SWGM_VIP_Take"
-    {
-        "ru"		"Вы потеряли VIP, потому что вышли из нашей Steam группы."
-        "en"		"You lost VIP because you leave our Steam group."
+	}
+	"SWGM_VIP_Take"
+	{
+		"ru"		"Вы потеряли VIP, потому что вышли из нашей Steam группы."
+		"en"		"You lost VIP because you leave our Steam Group."
+		"pt"		"Você perdeu o VIP porque saiu do nosso Grupo Steam."
 		"fi"		"Menetit VIP, koska jätit Steam-ryhmämme."
 		"ua"		"Ви втратили VIP, тому що покинули нашу групу Steam."
 		"es"		"Perdiste VIP porque dejaste nuestro grupo Steam."
-		"ar"		"لقد فقدت VIP لأنك تركت مجموعة Steam الخاصة بنا."		
-    }
+		"ar"		"لقد فقدت VIP لأنك تركت مجموعة Steam الخاصة بنا."
+	}
 	"Skins"
 	{
 		"ru"		"Скины"
@@ -1812,9 +1814,9 @@
 	}
 	"SmokeColors_MENU"
 	{
-		"ru"    	"Выбрать цвет дыма"
-		"en"    	"Select Smoke Color"
-		"fi"    	"Valitse savun väri"
+		"ru"		"Выбрать цвет дыма"
+		"en"		"Select Smoke Color"
+		"fi"		"Valitse savun väri"
 		"ua"		"Обрати колір диму"
 		"es"		"Seleccionar color de humo"
 		"ar"		"حدد لون الدخان"
@@ -1892,30 +1894,30 @@
 		"ar"		"عرض الضرر"
 	}
 	"ShowTriggers"
-    {
-        "ru"    	"Показ триггеров"
-        "en"    	"Show Triggers"
-		"fi"    	"Visa triggers"
-		"ua"    	"Показати тригери"
+	{
+		"ru"		"Показ триггеров"
+		"en"		"Show Triggers"
+		"fi"		"Visa triggers"
+		"ua"		"Показати тригери"
 		"es"		"Mostrar disparadores"
 		"ar"		"إظهار المشغلات"
-    }
+	}
 	"Stickers"
 	{
-		"ru" 		"Наклейки на оружия"
-		"en" 		"Weapons Stickers"
-		"pt"        "Autocolantes Para Armas"
-		"fi"        "Asetarrat"
-		"ua"        "Наклейки на зброю"
-		"es"        "Pegatinas de Armas"
-		"ar"	    "الأسلحة ملصقات"
+		"ru"		"Наклейки на оружия"
+		"en"		"Weapons Stickers"
+		"pt"		"Weapons Stickers"
+		"fi"		"Asetarrat"
+		"ua"		"Наклейки на зброю"
+		"es"		"Pegatinas de Armas"
+		"ar"		"الأسلحة ملصقات"
 	}
 	"Healthshot_Pro"
 	{
-   	 	"ru"  		"Укол здоровья"
-   		"en"  		"Healthshot"
+		"ru"		"Укол здоровья"
+		"en"		"Healthshot"
 		"pt"		"Healthshot"
-    	"fi"  		"Terveyden piikki"
+		"fi"		"Terveyden piikki"
 		"ua"		"Укол здоров'я"
 		"es"		"Disparo de salud"
 		"ar"		"لقطة صحية"
@@ -1924,7 +1926,7 @@
 	{
 		"ru"		"Небо"
 		"en"		"Skybox"
-		"pt"		"SkyBox"		
+		"pt"		"SkyBox"
 		"fi"		"Taivas"
 		"ua"		"Небо"
 		"es"		"Skybox"
@@ -1934,37 +1936,37 @@
 // T
 
 	"TF2_HalloweenFootprints"
-    {
-        "ru"    	"Следы под ногами (Хэллоуин)"
-        "en"    	"Footsteps (Halloween)"
-		"fi"    	"Fotspår (Halloween)"
-		"ua"    	"Сліди під ногами (Хеллоуїн)"
+	{
+		"ru"		"Следы под ногами (Хэллоуин)"
+		"en"		"Footsteps (Halloween)"
+		"fi"		"Fotspår (Halloween)"
+		"ua"		"Сліди під ногами (Хеллоуїн)"
 		"es"		"Pasos (Halloween)"
 		"ar"		"خطى (هالوين)"
-    }
+	}
 	"TF2_DistortedHalloweenVoice"
-    {
-        "ru"    	"Искажённый голос (Хэллоуин)"
-        "en"    	"Distorted Voice (Halloween)"
-		"fi"    	"Förvrängd röst (Halloween)"
-		"ua"    	"Спотворений голос (Хеллоуїн)"
+	{
+		"ru"		"Искажённый голос (Хэллоуин)"
+		"en"		"Distorted Voice (Halloween)"
+		"fi"		"Förvrängd röst (Halloween)"
+		"ua"		"Спотворений голос (Хеллоуїн)"
 		"es"		"Voz distorsionada (Halloween)"
 		"ar"		"صوت مشوه (الهالوين)"
-    }
+	}
 	"Trails"
 	{
-		"ru"  		"Трейлы"
-		"en"  		"Trails"
-		"fi"  		"Jäljet"
+		"ru"		"Трейлы"
+		"en"		"Trails"
+		"fi"		"Jäljet"
 		"ua"		"Трейли"
 		"es"		"Caminos"
 		"ar"		"الممرات"
 	}
 	"Trails_MENU"
 	{
-		"ru"  		"Выбор трейла"
-		"en"  		"Select Trail"
-		"fi"  		"Jäljen Valitseminen"
+		"ru"		"Выбор трейла"
+		"en"		"Select Trail"
+		"fi"		"Jäljen Valitseminen"
 		"ua"		"Вибір трейлу"
 		"es"		"Selección de caminos"
 		"ar"		"اختيار الممر"
@@ -2043,14 +2045,14 @@
 		"ar"		"إعدادات العلامات"
 	}
 	"two_guns"
-    {
-        "ru"    	"Два оружия в одном слоте"
-        "en"        "Two weapons in one slot"
-        "fi"        "Kaksi asetta yhdessä korttipaikassa"
-		"ua" 		"Дві зброї в одному слоті"
+	{
+		"ru"		"Два оружия в одном слоте"
+		"en"		"Two weapons in one slot"
+		"fi"		"Kaksi asetta yhdessä korttipaikassa"
+		"ua"		"Дві зброї в одному слоті"
 		"es"		"Dos armas en una ranura"
-		"ar"	    "سلاحان في فتحة واحدة"
-    }
+		"ar"		"سلاحان في فتحة واحدة"
+	}
 
 // U
 
@@ -2115,6 +2117,7 @@
 	{
 		"ru"		"Выбить оружие"
 		"en"		"Drop Weapon"
+		"pt"		"Drop Arma"
 		"fi"		"Katkaise aseet"
 		"ua"		"Вибити зброю"
 		"es"		"Soltar arma"
@@ -2144,7 +2147,7 @@
 	{
 		"ru"		"Выбор перчаток (Valve)"
 		"en"		"Select Gloves (Valve)"
-		"pt"		"Selecione Luvas (Valve)"
+		"pt"		"Selecionar Luvas (Valve)"
 		"fi"		"Käsineiden valinta (Valve)"
 		"ua"		"Вибір рукавичок (Valve)"
 		"es"		"Seleccionar guantes (Valve)"
@@ -2161,35 +2164,35 @@
 	}
 	"VIP_NO_LIMIT"
 	{
-		"#format" 	"{1:s}"
-		"ru" 		"Лимит использования {1} исчерпан!"
-		"en" 		"The limit of use {1} has been reached!"
-		"pt"        "O limite de uso {1} foi atingido!"
-		"fi"        "Käyttöraja {1} on saavutettu!"
-		"ua"        "Межа використання {1} досягнута!"
-		"es"        "¡Se ha alcanzado el límite de uso {1}!"
-		"ar"	    "تم الوصول إلى حد الاستخدام {1}!"
+		"#format"	"{1:s}"
+		"ru"		"Лимит использования {1} исчерпан!"
+		"en"		"The limit of use {1} has been reached!"
+		"pt"		"O limite de uso {1} foi atingido!"
+		"fi"		"Käyttöraja {1} on saavutettu!"
+		"ua"		"Межа використання {1} досягнута!"
+		"es"		"¡Se ha alcanzado el límite de uso {1}!"
+		"ar"		"تم الوصول إلى حد الاستخدام {1}!"
 	}
 	"VIP_END_TIME_USE"
 	{
-		"#format" 	"{1:s}"
-		"ru" 		"Время действия {1} закончилось!"
-		"en" 		"Action time {1} is over!"
-		"pt"        "O tempo de ação {1} acabou!"
-		"fi"        "Toiminta-aika {1} on ohi!"
-		"ua"        "Час дії {1} закінчився!"
-		"es"        "¡El tiempo de acción {1} ha terminado!"
-		"ar"	    "وقت العمل {1} هو أكثر!"
+		"#format"	"{1:s}"
+		"ru"		"Время действия {1} закончилось!"
+		"en"		"Action time {1} is over!"
+		"pt"		"O tempo de ação {1} acabou!"
+		"fi"		"Toiminta-aika {1} on ohi!"
+		"ua"		"Час дії {1} закінчився!"
+		"es"		"¡El tiempo de acción {1} ha terminado!"
+		"ar"		"وقت العمل {1} هو أكثر!"
 	}
 	"VOICEMUTE"
 	{
-		"ru"        "Мут игроков"
-		"en"        "VOICEMUTE"
-		"pt"        "SILENCIAR A VOZ"
-		"fi"        "ÄÄNI MYKISTÄÄ"
-		"ua"        "Мут гравців"
-		"es"        "SILENCIO DE VOZ"
-		"ar"	    "كتم الصوت"
+		"ru"		"Мут игроков"
+		"en"		"VOICEMUTE"
+		"pt"		"SILENCIAR A VOZ"
+		"fi"		"ÄÄNI MYKISTÄÄ"
+		"ua"		"Мут гравців"
+		"es"		"SILENCIO DE VOZ"
+		"ar"		"كتم الصوت"
 	}
 	"VipOverlay"
 	{
@@ -2203,96 +2206,97 @@
 	}
 	"vip_name_color"
 	{
-		"ru"        "Цвет никнейма"
-		"en"        "Client Username Color"
-		"fi"        "Asiakkaan käyttäjänimen väri"
-		"ua"        "Колір нікнейму"
-		"es"	    "Color del nombre de usuario del cliente"
-		"ar"	    "لون اسم مستخدم العميل"
+		"ru"		"Цвет никнейма"
+		"en"		"Client Username Color"
+		"fi"		"Asiakkaan käyttäjänimen väri"
+		"ua"		"Колір нікнейму"
+		"es"		"Color del nombre de usuario del cliente"
+		"ar"		"لون اسم مستخدم العميل"
 	}
 	"vip_message_color"
 	{
-		"ru"        "Цвет сообщения"
-		"en"        "Client Message Color"
-		"fi"        "Asiakkaan viestin väri"
-		"ua"        "Колір повідомлення"
-		"es"	    "Color del mensaje del cliente"
-		"ar"	    "لون رسالة العميل"
+		"ru"		"Цвет сообщения"
+		"en"		"Client Message Color"
+		"fi"		"Asiakkaan viestin väri"
+		"ua"		"Колір повідомлення"
+		"es"		"Color del mensaje del cliente"
+		"ar"		"لون رسالة العميل"
 	}
 	"vip_prefix"
 	{
-		"ru"        "Префикс"
-		"en"        "Client Prefix"
-		"fi"        "Asiakkaan etuliite"
-		"ua"        "Префікс"
-		"es"	    "Prefijo de cliente"
-		"ar"	    "بادئة العميل"
+		"ru"		"Префикс"
+		"en"		"Client Prefix"
+		"fi"		"Asiakkaan etuliite"
+		"ua"		"Префікс"
+		"es"		"Prefijo de cliente"
+		"ar"		"بادئة العميل"
 	}
 	"vip_prefix_color"
 	{
-		"ru"        "Цвет префикса"
-		"en"        "Client Prefix Color"
-		"fi"        "Asiakkaan etuliitteen väri"
-		"ua"        "Колір префіксу"
-		"es"	    "Color del prefijo del cliente"
-		"ar"	    "لون بادئة العميل"
+		"ru"		"Цвет префикса"
+		"en"		"Client Prefix Color"
+		"fi"		"Asiakkaan etuliitteen väri"
+		"ua"		"Колір префіксу"
+		"es"		"Color del prefijo del cliente"
+		"ar"		"لون بادئة العميل"
 	}
 	"vip_chat_nameco"
 	{
-		"ru"        "Цвет никнейма"
-		"en"        "Client Username Color"
-		"fi"        "Asiakkaan käyttäjänimen väri"
-		"ua"        "Колір нікнейму"
-		"es"	    "Color del nombre de usuario del cliente"
-		"ar"	    "لون اسم مستخدم العميل"
+		"ru"		"Цвет никнейма"
+		"en"		"Client Username Color"
+		"fi"		"Asiakkaan käyttäjänimen väri"
+		"ua"		"Колір нікнейму"
+		"es"		"Color del nombre de usuario del cliente"
+		"ar"		"لون اسم مستخدم العميل"
 	}
 	"vip_chat_msgco"
 	{
-		"ru"        "Цвет сообщения"
-		"en"        "Client Message Color"
-		"fi"        "Asiakkaan viestin väri"
-		"ua"        "Колір повідомлення"
-		"es"	    "Color del mensaje del cliente"
-		"ar"	    "لون رسالة العميل"
+		"ru"		"Цвет сообщения"
+		"en"		"Client Message Color"
+		"fi"		"Asiakkaan viestin väri"
+		"ua"		"Колір повідомлення"
+		"es"		"Color del mensaje del cliente"
+		"ar"		"لون رسالة العميل"
 	}
 	"vip_chat_prefix"
 	{
-		"ru"        "Префикс"
-		"en"        "Client Prefix"
-		"pt"        "Prefixo do Client"
-		"fi"        "Asiakkaan etuliite"
-		"ua"        "Префікс"
-		"es"	    "Prefijo de cliente"
-		"ar"	    "بادئة العميل"
+		"ru"		"Префикс"
+		"en"		"Client Prefix"
+		"pt"		"Prefixo do Client"
+		"fi"		"Asiakkaan etuliite"
+		"ua"		"Префікс"
+		"es"		"Prefijo de cliente"
+		"ar"		"بادئة العميل"
 	}
 	"vip_chat_prefixco"
 	{
-		"ru"        "Цвет префикса"
-		"en"        "Client Prefix Color"
-		"fi"        "Asiakkaan etuliitteen väri"
-		"ua"        "Колір префіксу"
-		"es"	    "Color del prefijo del cliente"
-		"ar"	    "لون بادئة العميل"
+		"ru"		"Цвет префикса"
+		"en"		"Client Prefix Color"
+		"pt"		"Cor do Prefixo do Cliente"
+		"fi"		"Asiakkaan etuliitteen väri"
+		"ua"		"Колір префіксу"
+		"es"		"Color del prefijo del cliente"
+		"ar"		"لون بادئة العميل"
 	}
 	"VIP_Agents_M"
 	{
-		"ru"        "Меню Агентов"
-		"en"        "Agents Menu"
-		"pt"        "Menu Agentes"
-		"fi"        "Agenttien Valikko"
-		"ua"        "Меню Агентів"
-		"es"        "Menú Agentes"
-		"ar"	    "قائمة الوكلاء"
+		"ru"		"Меню Агентов"
+		"en"		"Agents Menu"
+		"pt"		"Menu Agentes"
+		"fi"		"Agenttien Valikko"
+		"ua"		"Меню Агентів"
+		"es"		"Menú Agentes"
+		"ar"		"قائمة الوكلاء"
 	}
-    "VIP_SOUNDEFFECTS"
-    {
-        "ru"        "Звуки"
-        "en"        "Sounds"
-		"fi"        "äänet"
-		"ua"        "Звуки"
-		"es"        "Suena"
-		"ar"	    "اصوات"
-    }
+	"VIP_SOUNDEFFECTS"
+	{
+		"ru"		"Звуки"
+		"en"		"Sounds"
+		"fi"		"äänet"
+		"ua"		"Звуки"
+		"es"		"Suena"
+		"ar"		"اصوات"
+	}
 
 // W
 
@@ -2326,29 +2330,29 @@
 	}
 	"WEAPON_COLORS"
 	{
-		"ru"        "Цвет оружия"
-		"en"        "Weapon Colors"
-		"pt"        "Cores Das Armas"
-		"fi"        "Aseiden Värit"
-		"ua"        "Кольори зброї"
-		"es"        "Colores de Armas"
-		"ar"	    "ألوان السلاح"
+		"ru"		"Цвет оружия"
+		"en"		"Weapon Colors"
+		"pt"		"Cores Das Armas"
+		"fi"		"Aseiden Värit"
+		"ua"		"Кольори зброї"
+		"es"		"Colores de Armas"
+		"ar"		"ألوان السلاح"
 	}
 	"WEAPON_COLORS_M"
 	{
-		"ru"        "Выбор цвета оружия"
-		"en"        "Choose weapon colors"
-		"pt"        "Escolher as cores da arma"
-		"fi"        "Valitse aseen värit"
-		"ua"        "Виберіть кольори зброї"
-		"es"        "Elige los colores de las armas"
-		"ar"	    "اختيار الألوان سلاح"
+		"ru"		"Выбор цвета оружия"
+		"en"		"Choose weapon colors"
+		"pt"		"Escolher as cores da arma"
+		"fi"		"Valitse aseen värit"
+		"ua"		"Виберіть кольори зброї"
+		"es"		"Elige los colores de las armas"
+		"ar"		"اختيار الألوان سلاح"
 	}
 	"WeaponRestrictImmunity"
 	{
 		"ru"		"Иммунитет от ограничения оружия"
 		"en"		"Weapon restriction immunity"
-		"pt"        "Imunidade de restrição de armas"
+		"pt"		"Imunidade de restrição de armas"
 		"fi"		"Gun limit immunity"
 		"ua"		"Імунітет від обмеження зброї"
 		"es"		"Inmunidad de restricción de armas"
@@ -2358,32 +2362,33 @@
 // X
 
 	"X16Walls"
-    {
-        "ru"        "Прострел стен"
-        "en"        "Wall Shot"
-        "fi"        "Seinä laukaus"
-		"ua" 		"Простріл стін"
+	{
+		"ru"		"Прострел стен"
+		"en"		"Wall Shot"
+		"fi"		"Seinä laukaus"
+		"ua"		"Простріл стін"
 		"es"		"Muro de tiro"
-		"ar"	    "طلقة الجدار"
-    }
+		"ar"		"طلقة الجدار"
+	}
 	"XscopeSettings"
-    {
+	{
 		"ru"		"Настройки прицела"
-		"en"		"Scope settings"
+		"en"		"Scope Settings"
+		"pt"		"Configurações de Scope"
 		"fi"		"Soveltamisalan asetukset"
 		"ua"		"Налаштування прицілу"
 		"es"		"Configuración del alcance"
 		"ar"		"إعدادات النطاق"
-    }
+	}
 	"Xscope"
-    {
-        "ru"        "Улучшенный снайперский прицел"
-        "en"        "Advanced Sniper Sight"
-		"fi"        "Advanced sniper näky"
-		"ua"        "Покращений снайперський приціл"
-		"es"	    "Mira de francotirador avanzada"
-		"ar"	    "مشهد قناص متقدم"
-    }
+	{
+		"ru"		"Улучшенный снайперский прицел"
+		"en"		"Advanced Sniper Sight"
+		"fi"		"Advanced sniper näky"
+		"ua"		"Покращений снайперський приціл"
+		"es"		"Mira de francotirador avanzada"
+		"ar"		"مشهد قناص متقدم"
+	}
 
 // Y
 
