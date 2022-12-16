@@ -215,6 +215,26 @@
 		"es"		"Texto central"
 		"ar"		"نص المركز"
     }
+	"AwpManagerClip"
+	{
+		"ru"    	"[AWP] Патроны в обойме"
+		"en"    	"[AWP] Ammo in clip"
+		"pt"		"[AWP] Munição no carregador"
+		"fi"		"[AWP] Sylinteriampullit lippaassa"
+		"ua"		"[AWP] Патрони в обоймі"
+		"es"		"[AWP] Cartuchos en el clip"
+		"ar"		"[AWP] خراطيش في مقطع"
+	}
+	"AwpManagerReserve"
+	{
+		"ru"    	"[AWP] Патроны в запасе"
+		"en"    	"[AWP] Ammo in reserve"
+		"pt"		"[AWP] Cartuchos em estoque"
+		"fi"		"[AWP] Ammuksia varastossa"
+		"ua"		"[AWP] Патрони в запасі"
+		"es"		"[AWP] Cartuchos en existencia"
+		"ar"		"[AWP] الذخيرة في الأوراق المالية"
+	}
 
 // B
 
@@ -257,7 +277,7 @@
 		"es"		"Ardiente"
 		"ar"		"احتراق"
     }
-	"BHOP"
+	"bhop"
     {
         "ru"   	 	"Банихоп"
         "ua"    	"Банніхоп"
@@ -286,7 +306,7 @@
 		"es"		"BunnyHop"
 		"ar"		"باني هوب"
 	}    
-	"BHOP_TIME"
+	"bhop_time"
     {
         "#format"	"{1:f}"
         "ru"        "Банихоп будет доступен через {1} секунд"
@@ -420,7 +440,7 @@
 	{
 		"ru"		"Смена команды"
 		"en"		"Change Team"
-		"pt"		"Change Team"
+		"pt"		"Alterar Time"
 		"fi"		"Tiimin muutos"
 		"ua"		"Зміна команди"
 		"es"		"Cambiar equipo"
@@ -527,6 +547,7 @@
 	{
 		"ru"		"Данный функционал доступен только VIP-игрокам!"
 		"en"		"This is feature available only for VIP-players!"
+		"pt"		"Este é um recurso disponível apenas para players VIP!"
 		"fi"		"Tämä toiminto on käytettävissä vain VIP-pelaajille!"
 		"ua"		"Цей функціонал доступний лише VIP-гравцям!"
 		"es"		"¡Esta función está disponible solo para jugadores VIP!"
@@ -581,13 +602,13 @@
 		"fi"    	"Poista hidastus käytöstä ankkaa käytettäessä"
         "ua"    	"Відключити уповільнення швидкості під час присідання"
 		"es"    	"Desactiva la ralentización cuando usas pato"
-		"ar"	"تعطيل التباطؤ عند استخدام البطة"
+		"ar"		"تعطيل التباطؤ عند استخدام البطة"
     }
     "Defuser"
     {
         "ru"        "Набор обезвреживания"
         "en"        "Defuse Kit"
-		"en"        "Kit Defuse"
+		"pt"        "Kit de Defuse"
         "fi"        "Defuse Kit"
         "ua"        "Набір знешкодження"
         "es"        "Defuse Kit"
@@ -975,7 +996,7 @@
 	{
 		"ru"        "Иммунитет к сердцебиению"
 		"en"        "Immunity to palpitations"
-		"pt"		"Imunidade a palpitações"		
+		"pt"		"Imunidade a palpitações"
 		"fi"		"Immuniteetti sydämentykytykselle"
 		"ua"		"Імунітет до серцебиття"
 		"es"		"Inmunidad a las palpitaciones"
@@ -1349,6 +1370,7 @@
 	{
 		"ru"		"Стрельба без отдачи"
 		"en"		"No Recoil"
+		"pt"		"Tiroteio sem recuo"
 		"fi"		"Kuvaaminen ilman palautusta"
 		"ua"		"Стрілянина без віддачі"
 		"es"		"Sin retroceso"
@@ -1451,8 +1473,8 @@
         "ru"    	"Выбор питомца"
         "fi"     	"Lemmikin valitseminen"
         "ua"      	"Вибір вихованця"
-        "es"	  	"Elegir una mascota"	
-		"ar"		"اختيار الحيوانات الأليفة"			
+        "es"	  	"Elegir una mascota"
+		"ar"		"اختيار الحيوانات الأليفة"
     } 
     "Pets_Disable"
     {
@@ -1477,7 +1499,7 @@
 	{
 		"ru"		"Настройка рисовалки"
 		"en"		"Paint Menu"
-		"pt"		"Paint Menu"		
+		"pt"		"Paint Menu"
 		"fi"		"Maalaus Menu"
 		"ua"		"Налаштування малювалки"
 		"es"		"Menú de pintura"
@@ -1601,7 +1623,7 @@
 		"fi"    	"Byt vapen"
 		"ua"    	"Відновлення боєприпасів"
 		"es"		"Cambiar de arma"
-		"ar"	"تبديل السلاح"
+		"ar"		"تبديل السلاح"
     }
 	"RegenArmor"
 	{
@@ -1741,7 +1763,7 @@
 	{
 		"ru"		"Небо"
 		"en"		"Skybox"
-		"pt"		"SkyBox"		
+		"pt"		"SkyBox"
 		"fi"		"Taivas"
 		"ua"		"Небо"
 		"es"		"Skybox"
@@ -1766,20 +1788,22 @@
 	"SWGM_VIP_Give"
 	{
         "ru"		"Вы получили VIP за вступление в нашу Steam группу."
-        "en"		"You got VIP because you join our Steam group."
+        "en"		"You got VIP because you join our Steam Group."
+		"pt"		"Você ganhou VIP porque se juntou ao nosso Grupo Steam."
 		"fi"		"Sait VIP-jäsenen Steam-ryhmään liittymisestä."
 		"ua"		"Ви отримали VIP за приєднання до нашої групи Steam."
-		"es"		"Tienes VIP porque te unes a nuestro grupo Steam."
+		"es"		"Tienes VIP porque te unes a nuestro Grupo Steam."
 		"ar"		"لقد حصلت على VIP لأنك انضممت إلى مجموعة Steam الخاصة بنا."
     }
     "SWGM_VIP_Take"
     {
         "ru"		"Вы потеряли VIP, потому что вышли из нашей Steam группы."
-        "en"		"You lost VIP because you leave our Steam group."
+        "en"		"You lost VIP because you leave our Steam Group."
+		"pt"		"Você perdeu o VIP porque saiu do nosso Grupo Steam."
 		"fi"		"Menetit VIP, koska jätit Steam-ryhmämme."
 		"ua"		"Ви втратили VIP, тому що покинули нашу групу Steam."
-		"es"		"Perdiste VIP porque dejaste nuestro grupo Steam."
-		"ar"		"لقد فقدت VIP لأنك تركت مجموعة Steam الخاصة بنا."		
+		"es"		"Perdiste VIP porque dejaste nuestro Grupo Steam."
+		"ar"		"لقد فقدت VIP لأنك تركت مجموعة Steam الخاصة بنا."
     }
 	"Skins"
 	{
@@ -1924,7 +1948,7 @@
 	{
 		"ru"		"Небо"
 		"en"		"Skybox"
-		"pt"		"SkyBox"		
+		"pt"		"SkyBox"
 		"fi"		"Taivas"
 		"ua"		"Небо"
 		"es"		"Skybox"
@@ -2288,6 +2312,7 @@
     {
         "ru"        "Звуки"
         "en"        "Sounds"
+		"pt"        "Sons"
 		"fi"        "äänet"
 		"ua"        "Звуки"
 		"es"        "Suena"
@@ -2347,8 +2372,8 @@
 	"WeaponRestrictImmunity"
 	{
 		"ru"		"Иммунитет от ограничения оружия"
-		"en"		"Weapon restriction immunity"
-		"pt"        "Imunidade de restrição de armas"
+		"en"		"Weapon Restriction Immunity"
+		"pt"        "Imunidade de Restrição de Armas"
 		"fi"		"Gun limit immunity"
 		"ua"		"Імунітет від обмеження зброї"
 		"es"		"Inmunidad de restricción de armas"
