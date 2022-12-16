@@ -685,13 +685,13 @@
 	}
 	"ExoJumpBoots"
 	{
-	   "ru"			"Exo Jump ботинки"
-	   "en"			"Exo Jump Boots"
-	   "pt"			"Botas Exo Jump"
-	   "fi"			"Exo Jump stövlar"
-	   "ua"			"Exo Jump черевики"
-	   "es"			"Botas Exo Jump"
-	   "ar"			"القفز إكسو الروبوتات"
+		"ru"		"Exo Jump ботинки"
+		"en"		"Exo Jump Boots"
+		"pt"		"Botas Exo Jump"
+		"fi"		"Exo Jump stövlar"
+		"ua"		"Exo Jump черевики"
+		"es"		"Botas Exo Jump"
+		"ar"		"القفز إكسو الروبوتات"
 	}
 	"Equipments"
 	{
