@@ -3,7 +3,7 @@
 ## RU
 Это дополнение нужно для работы модулей для VIP Core / Без него ядро будет требовать файл перевода.
 
-Это облегчит Вам жизнь с поста [FAQ](https://hlmod.ru/posts/274178)
+Это облегчит Вам жизнь с поста [FAQ](https://hlmod.ru/posts/274178).
 
 ### Требования
 - [Ядро плагина - VIP Core - 2.1 и выше](https://hlmod.ru/resources/245/)
@@ -22,7 +22,7 @@ ___
 ## EN
 This add-on is necessary for the VIP Core modules to work / Without it, the core will require a translation file.
 
-This will make your life easier from the post [FAQ](https://hlmod.ru/posts/274178)
+This will make your life easier from the post [FAQ](https://hlmod.ru/posts/274178).
 
 ### Requirements
 - [Plugin Core - VIP Core - 2.1 and higher](https://hlmod.ru/resources/245/)
